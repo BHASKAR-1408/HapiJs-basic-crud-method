@@ -1,0 +1,33 @@
+[
+    {
+        "username": "bijusrt",
+        "password": "srt123",
+        "id": 1
+    },
+    null,
+    {
+        "username": "yogesh",
+        "password": "asdfghj",
+        "id": 3
+    },
+    {
+        "username": "ajith",
+        "password": "ajithabd",
+        "id": 4
+    },
+    {
+        "username": "bhaskar",
+        "password": "hello guru",
+        "id": 5
+    },
+    {
+        "username": "vaishnavi",
+        "password": "vaishnavi@9949",
+        "id": 6
+    },
+    {
+        "username": "kavya",
+        "password": "kavya@9949",
+        "id": 6
+    }
+]
