@@ -61,6 +61,7 @@ server.route({
     method:'DELETE',
     path:'/delete/{id}',
     handler:async(req)=>{
+        let some = true
         let id = req.params.id
         for(let i=0;i<data.length;i++){
             if(data[i].id == id){
